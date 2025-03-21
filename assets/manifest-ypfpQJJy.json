@@ -1,0 +1,26 @@
+{
+    "name": "Lighthouse Coworking Space",
+    "short_name": "Lighthouse",
+    "description": "Lighthouse Coworking Space – A modern, flexible workspace empowering creators, freelancers, and teams to thrive and connect.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#10375c",
+    "orientation": "portrait",
+    "scope": "/",
+    "icons": [
+      {
+        "src": "/icons/icon-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "/icons/icon-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "lang": "en",
+    "dir": "ltr"
+  }
+  
